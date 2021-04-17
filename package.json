@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "homepage": "https://github.com/Wtrickser/employeeDirectory",
   "private": true,
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
